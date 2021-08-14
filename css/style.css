@@ -10,7 +10,7 @@ body{
 	height:100vh;
 	margin:0;
 	font-family:'trebuchet MS',sans-serif;
-	background-image:linear-gradient(0deg,#ccccff,#663366,#999966);
+	background-image:linear-gradient(0deg,#030303,#a577a5,#f0f07d);
 	display:flex;
 	flex-direction:column;
 	align-items:center;
